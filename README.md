@@ -112,6 +112,9 @@
 21. activity和fragment的区别？
 	http://www.tuicool.com/articles/3QvMRfz
 
+21.2 fragment的优缺点
+	http://blog.csdn.net/ttkatrina/article/details/51793682
+
 22. 线程池理解
 	http://www.cnblogs.com/whgw/archive/2011/09/28/2194776.html
 	  假设一个服务器完成一项任务所需时间为：T1 创建线程时间，T2 在线程中执行任务的时间，T3 销毁线程时间。
@@ -142,3 +145,25 @@
 	
 25. Application context和Activity context的区别
 	http://blog.csdn.net/vincent_czz/article/details/8663871
+	
+26. Android数据库两个操作同时进行
+	一个操作未完成，进行下一个操作，怎么处理
+
+27. handler机制
+	http://blog.csdn.net/itachi85/article/details/8035333
+
+28. Android中asyncTask与handler的区别
+	http://blog.csdn.net/onlyonecoder/article/details/8484200/
+	
+29. activity启动模式
+	http://www.cnblogs.com/meizixiong/archive/2013/07/03/3170591.html
+	
+30. 安卓listview和recyclerview的不同
+	http://www.tuicool.com/articles/aeeaQ3J
+
+31. fastjson和gson的却别？
+	http://www.cnblogs.com/whoislcj/p/5468420.html
+
+32. volley的优缺点？
+	http://blog.csdn.net/fenggit/article/details/50727831
+	
